@@ -88,7 +88,8 @@ sum = a XOR b XOR cin
 carry = (a AND b) OR (cin AND (a XOR b))
 ```
 
-![Insert Full Adder Diagram Here](#)
+![Insert Full Adder Diagram Here](https://drive.google.com/file/d/1ewYez1KKj7E16oqAPrlZCKJiNlRBnzq8/view?usp=sharing)
+
 
 ---
 
