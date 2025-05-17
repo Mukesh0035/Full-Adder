@@ -66,7 +66,7 @@ carryf = (a & b) | (cin & (a ^ b))
 
 ## 🖼️ Circuit Diagrams
 
-You can insert diagrams here using schematic tools like [Logisim]([http://www.cburch.com/logisim/](https://github.com/Mukesh0035/extra/blob/2e99274bc606e5ef605bd762879bd787093a3e44/Screenshot%202025-05-17%20105728.png)), Fritzing, or draw\.io.
+You can insert diagrams here using schematic tools like [hello]([http://www.cburch.com/logisim/](https://github.com/Mukesh0035/extra/blob/2e99274bc606e5ef605bd762879bd787093a3e44/Screenshot%202025-05-17%20105728.png)), Fritzing, or draw\.io.
 
 ### 📌 Half Adder
 
